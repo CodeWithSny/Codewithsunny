@@ -1,4 +1,4 @@
-# Codewithsunny making shopping website
+# Codewithsunny source code for creating shopping website.
 
 "C:\Users\Suresh\Desktop\shop website\24x7.png"
 "C:\Users\Suresh\Desktop\shop website\banner.png"
